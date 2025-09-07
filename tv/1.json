@@ -13,16 +13,18 @@
 {"key":"豆瓣1","name":"6666","type":3,"api":"csp_Douban","searchable":0},
 
 //csp_XBPQ
+//csp_XBPQ https://gitee.com/zfnote/jar/raw/master/
 
-{"key":"养生堂","name":"🧿养生｜知识","type":3,"api":"csp_XBPQ","ext":"./XBPQ/养生堂.json","style":{"type":"rect","ratio":1.597}},
-{"key":"农民","name":"🧿农民｜影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/农民影视.json"},
-{"key":"韩国","name":"🧿韩国｜影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/韩剧看看.json"},
-{"key":"厂长","name":"🧿厂长｜影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/厂长资源.json"},
+{"key":"养生堂","name":"🧿养生｜知识","jar":"https://gitee.com/zfnote/jar/raw/master/XBPQ.jar;md5;4d860d06ec233dbcb891b76055f099d5","type":3,"api":"csp_XBPQ","ext":"./XBPQ/养生堂.json","style":{"type":"rect","ratio":1.597}},
+{"key":"农民","name":"🧿农民｜影视","jar":"https://gitee.com/zfnote/jar/raw/master/XBPQ.jar;md5;4d860d06ec233dbcb891b76055f099d5","type":3,"api":"csp_XBPQ","ext":"./XBPQ/农民影视.json"},
+{"key":"韩国","name":"🧿韩国｜影视","jar":"https://gitee.com/zfnote/jar/raw/master/XBPQ.jar;md5;4d860d06ec233dbcb891b76055f099d5","type":3,"api":"csp_XBPQ","ext":"./XBPQ/韩剧看看.json"},
+{"key":"厂长","name":"🧿厂长｜影视","jar":"https://gitee.com/zfnote/jar/raw/master/XBPQ.jar;md5;4d860d06ec233dbcb891b76055f099d5","type":3,"api":"csp_XBPQ","ext":"./XBPQ/厂长资源.json"},
 
-{"key":"明星","name":"🧿明星｜影视","type":3,"api":"csp_XBPQ","ext":{"\u526f\u6807\u9898":"\u6b27\u6b4c\u4e13\u5c5e","请求头":"User-Agent$MOBILE_UA","编码":"UTF-8","分类url":"https://mxvod.com/"}},
-{"key":"小镇","name":"🧿小镇｜影视","type":3,"api":"csp_XBPQ","ext":{"请求头":"User-Agent$MOBILE_UA","编码":"UTF-8","分类url":"http://dyxz.tv/"}},
-{"key":"永乐","name":"🧿永乐｜影视","type":3,"api":"csp_XBPQ","ext":{"\u526f\u6807\u9898":"\u6b27\u6b4c\u4e13\u5c5e","请求头":"User-Agent$MOBILE_UA","编码":"UTF-8","分类url":"https://www.ylys.tv/"}},
-{"key":"优质","name":"🧿优质｜影视1","type":3,"api":"csp_XBPQ","ext":{"\u526f\u6807\u9898":"\u6b27\u6b4c\u4e13\u5c5e","请求头":"User-Agent$MOBILE_UA","编码":"UTF-8","分类url":"https://www.myripon.com/"}},
+{"key":"明星","name":"🧿明星｜影视","jar":"https://gitee.com/zfnote/jar/raw/master/XBPQ.jar;md5;4d860d06ec233dbcb891b76055f099d5","type":3,"api":"csp_XBPQ","ext":{"\u526f\u6807\u9898":"\u6b27\u6b4c\u4e13\u5c5e","请求头":"User-Agent$MOBILE_UA","编码":"UTF-8","分类url":"https://mxvod.com/"}},
+{"key":"小镇","name":"🧿小镇｜影视","jar":"https://gitee.com/zfnote/jar/raw/master/XBPQ.jar;md5;4d860d06ec233dbcb891b76055f099d5","type":3,"api":"csp_XBPQ","ext":{"请求头":"User-Agent$MOBILE_UA","编码":"UTF-8","分类url":"http://dyxz.tv/"}},
+{"key":"永乐","name":"🧿永乐｜影视","jar":"https://gitee.com/zfnote/jar/raw/master/XBPQ.jar;md5;4d860d06ec233dbcb891b76055f099d5","type":3,"api":"csp_XBPQ","ext":{"\u526f\u6807\u9898":"\u6b27\u6b4c\u4e13\u5c5e","请求头":"User-Agent$MOBILE_UA","编码":"UTF-8","分类url":"https://www.ylys.tv/"}},
+{"key":"优质","name":"🧿优质｜影视1","jar":"https://gitee.com/zfnote/jar/raw/master/XBPQ.jar;md5;4d860d06ec233dbcb891b76055f099d5","type":3,"api":"csp_XBPQ","ext":{"\u526f\u6807\u9898":"\u6b27\u6b4c\u4e13\u5c5e","请求头":"User-Agent$MOBILE_UA","编码":"UTF-8","分类url":"https://www.myripon.com/"}},
+
 
 
 
